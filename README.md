@@ -11,7 +11,7 @@
 # Example using course author's information:
 
 # git config --global user.name "Jason Taylor"
-# git config --global user.email "jason@jasongtaylor.com"
+# git config --global user.email "Widbyarmnad@gmail.com"
 # Listing All Global Configuration Settings
 # git config --global --list
 # Seeing Git's User-based Config file
